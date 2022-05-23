@@ -1,0 +1,24 @@
+.body_background
+{
+    background-image: url("wi2030baece2f-97fd-495f-98f3-c0e097ec614e11.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#mycanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+h2{
+ background:aquamarine;
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+h3
+{
+    background: yellow;
+    display: inline-block;
+    width: 400px;
+}
